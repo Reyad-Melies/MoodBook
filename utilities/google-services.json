@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707624659945",
+    "firebase_url": "https://flash-caht-7e1a7.firebaseio.com",
+    "project_id": "flash-caht-7e1a7",
+    "storage_bucket": "flash-caht-7e1a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707624659945:android:8d3226987794c6a39cb978",
+        "android_client_info": {
+          "package_name": "co.reyadmelies.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707624659945-8rgo3osrhaghg789es67ad6dp7ohca3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5PvWfJKfAB-RR0zmWFPV9Bc6OhgysQVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707624659945-8rgo3osrhaghg789es67ad6dp7ohca3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
